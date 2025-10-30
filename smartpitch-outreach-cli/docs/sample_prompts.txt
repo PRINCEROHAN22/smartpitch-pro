@@ -1,0 +1,27 @@
+Save this as sample_prompts.txt in the docs/ folder:
+
+SMARTPITCH SAMPLE PROMPTS
+-------------------------
+
+Example 1:
+Client Name: Sarah
+Business: Apex Analytics
+Need: process automation
+Platform: LinkedIn
+Tone: Friendly
+
+Example 2:
+Client Name: Daniel
+Business: SkyEdge Designs
+Need: workflow optimization
+Platform: Upwork
+Tone: Formal
+
+Example 3:
+Client Name: Maria
+Business: VisionTech Solutions
+Need: repetitive task automation
+Platform: Email
+Tone: Confident
+
+Tip: Adjust the tone and 'need' each time before generating.
